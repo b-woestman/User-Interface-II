@@ -281,4 +281,7 @@ a#contact-me{
     footer span{
         font-size: 2.4rem;
     }
+    a#contact-me{
+        width: 50%;
+    }
 }
